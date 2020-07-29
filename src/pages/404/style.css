@@ -1,0 +1,40 @@
+body {
+    background-color: var(--black);
+}
+
+div {
+   color: var(--white);
+   font-family: 'Nunito', sans-serif;
+    align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: inherit;
+    
+}
+
+img {
+    width: 450px;
+}
+
+span {
+    
+}
+
+.Logo_Error {
+    padding-bottom: 30px;
+}
+
+.Link {
+    color: var(--primary);
+    text-decoration: none;
+}
