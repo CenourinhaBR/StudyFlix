@@ -9,10 +9,10 @@ import { Link } from 'react-router-dom';
 
 function Error() {
   return (
-    <div>
+    <div className="Container404">
         <img src={Logo} alt="Imagem de Erro" className="Logo_Error"/>
         <h1>Você se perdeu do seu Caminho?</h1>
-        <h2>Infeslimente não encontrei o seu caminho. Que tal voltar?<Link className="Link" to="/"> Clique aqui</Link>  </h2>
+        <h2>Infeslimente não encontrei o seu caminho. Que tal voltar?<Link  className="Link"   to="/"> Clique aqui</Link>  </h2>
         <img src={Img404} alt="Imagem de Erro"/>
     </div>
   );

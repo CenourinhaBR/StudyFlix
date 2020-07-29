@@ -2,7 +2,7 @@ body {
     background-color: var(--black);
 }
 
-div {
+.Container404 {
    color: var(--white);
    font-family: 'Nunito', sans-serif;
     align-items: center;
@@ -10,25 +10,24 @@ div {
   text-align: center;
 }
 
-h1 {
+.Container404 h1 {
     font-size: 24px;
     font-weight: bold;
 
 }
 
-h2 {
+.Container404 h2 {
     font-size: 20px;
     font-weight: inherit;
     
 }
 
-img {
+
+.Container404 img {
     width: 450px;
 }
 
-span {
-    
-}
+
 
 .Logo_Error {
     padding-bottom: 30px;
